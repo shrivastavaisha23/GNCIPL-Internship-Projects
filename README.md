@@ -1,2 +1,2 @@
-# GNCIPL-Internship-Projects
-All my projects completed during my internship at GNCIPL
+# GNCIPL-Internship-Projects-Domain-AI/ML
+All my projects completed during my internship at GNCIPL 
